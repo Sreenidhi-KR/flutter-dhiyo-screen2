@@ -1,6 +1,5 @@
-# interview2
-
-A new Flutter application.
+# assignment from dhiyo 
+Flutter Ui screen 2
 
 ## Getting Started
 
